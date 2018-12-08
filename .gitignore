@@ -1,0 +1,4 @@
+# ignore an entire directory
+/Library/
+/Temp/
+/.git/
